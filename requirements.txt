@@ -1,0 +1,4 @@
+pandas~=1.2.4
+matplotlib~=3.4.2
+Flask~=2.0.0
+pycoingecko~=2.0.0
