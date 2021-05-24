@@ -54,6 +54,12 @@ h1, h2, h3, h4, h5, h6 {
   border: 3px solid green;
   padding: 10px;
 }
+
+.text_time {
+ align:center;
+ color:white;
+
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
